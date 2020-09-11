@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7983fe71-6e60-4e48-89e6-440b8831ec28" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../COPYING.LGPLv2.1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../COPYING.LGPLv2.1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-ndk-prof" beforeDir="false" afterPath="$PROJECT_DIR$/../android-ndk-prof" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build-on-travis.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../build-on-travis.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../compile-ijk.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../compile-ijk.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contrib/compile-ffmpeg.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../contrib/compile-ffmpeg.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contrib/compile-libsoxr.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../contrib/compile-libsoxr.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contrib/compile-openssl.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../contrib/compile-openssl.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contrib/setup-as-commiter.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../contrib/setup-as-commiter.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contrib/sync-mirrors.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../contrib/sync-mirrors.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contrib/tools/do-compile-ffmpeg.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../contrib/tools/do-compile-ffmpeg.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ijk-ndk-stack.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../ijk-ndk-stack.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-arm64/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-arm64/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-arm64/src/main/jni/Android.mk" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-arm64/src/main/jni/Android.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-arm64/src/main/jni/ffmpeg" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-arm64/src/main/jni/ffmpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-arm64/src/main/jni/ijkmedia" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-arm64/src/main/jni/ijkmedia" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-armv5/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-armv5/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-armv5/src/main/jni/Android.mk" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-armv5/src/main/jni/Android.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-armv5/src/main/jni/ffmpeg" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-armv5/src/main/jni/ffmpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-armv5/src/main/jni/ijkmedia" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-armv5/src/main/jni/ijkmedia" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-armv7a/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-armv7a/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-armv7a/src/main/jni/ijkmedia" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-armv7a/src/main/jni/ijkmedia" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/java/tv/danmaku/ijk/media/example/widget/media/IjkVideoView.java" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/java/tv/danmaku/ijk/media/example/widget/media/IjkVideoView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/java/tv/danmaku/ijk/media/example/widget/media/InfoHudViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/java/tv/danmaku/ijk/media/example/widget/media/InfoHudViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-hdpi/ic_action_dark_aspect_ratio.png" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-hdpi/ic_action_dark_aspect_ratio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-hdpi/ic_action_dark_filter.png" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-hdpi/ic_action_dark_filter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-hdpi/ic_action_dark_settings.png" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-hdpi/ic_action_dark_settings.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-hdpi/ic_theme_description.png" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-hdpi/ic_theme_description.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-hdpi/ic_theme_folder.png" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-hdpi/ic_theme_folder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-hdpi/ic_theme_play_arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-hdpi/ic_theme_play_arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-mdpi/ic_action_dark_aspect_ratio.png" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-mdpi/ic_action_dark_aspect_ratio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-mdpi/ic_action_dark_filter.png" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-mdpi/ic_action_dark_filter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-mdpi/ic_action_dark_settings.png" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-mdpi/ic_action_dark_settings.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-mdpi/ic_theme_description.png" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-mdpi/ic_theme_description.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-mdpi/ic_theme_folder.png" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-mdpi/ic_theme_folder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-mdpi/ic_theme_play_arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-mdpi/ic_theme_play_arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xhdpi/ic_action_dark_aspect_ratio.png" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xhdpi/ic_action_dark_aspect_ratio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xhdpi/ic_action_dark_filter.png" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xhdpi/ic_action_dark_filter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xhdpi/ic_action_dark_settings.png" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xhdpi/ic_action_dark_settings.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xhdpi/ic_theme_description.png" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xhdpi/ic_theme_description.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xhdpi/ic_theme_folder.png" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xhdpi/ic_theme_folder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xhdpi/ic_theme_play_arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xhdpi/ic_theme_play_arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xxhdpi/ic_action_dark_aspect_ratio.png" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xxhdpi/ic_action_dark_aspect_ratio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xxhdpi/ic_action_dark_filter.png" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xxhdpi/ic_action_dark_filter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xxhdpi/ic_action_dark_settings.png" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xxhdpi/ic_action_dark_settings.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xxhdpi/ic_theme_description.png" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xxhdpi/ic_theme_description.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xxhdpi/ic_theme_folder.png" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xxhdpi/ic_theme_folder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xxhdpi/ic_theme_play_arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xxhdpi/ic_theme_play_arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xxxhdpi/ic_action_dark_aspect_ratio.png" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xxxhdpi/ic_action_dark_aspect_ratio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xxxhdpi/ic_action_dark_filter.png" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xxxhdpi/ic_action_dark_filter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xxxhdpi/ic_action_dark_settings.png" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xxxhdpi/ic_action_dark_settings.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xxxhdpi/ic_theme_description.png" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xxxhdpi/ic_theme_description.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xxxhdpi/ic_theme_folder.png" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xxxhdpi/ic_theme_folder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xxxhdpi/ic_theme_play_arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/drawable-xxxhdpi/ic_theme_play_arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-example/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-example/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-exo/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-exo/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-exo/src/main/java/tv/danmaku/ijk/media/exo/demo/SmoothStreamingTestMediaDrmCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-exo/src/main/java/tv/danmaku/ijk/media/exo/demo/SmoothStreamingTestMediaDrmCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-java/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-java/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-java/src/main/java/tv/danmaku/ijk/media/player/IjkMediaMeta.java" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-java/src/main/java/tv/danmaku/ijk/media/player/IjkMediaMeta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-java/src/main/java/tv/danmaku/ijk/media/player/IjkMediaPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-java/src/main/java/tv/danmaku/ijk/media/player/IjkMediaPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-java/src/main/java/tv/danmaku/ijk/media/player/misc/IjkMediaFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-java/src/main/java/tv/danmaku/ijk/media/player/misc/IjkMediaFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-x86/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-x86/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-x86/src/main/jni/Android.mk" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-x86/src/main/jni/Android.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-x86/src/main/jni/ffmpeg/include" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-x86/src/main/jni/ffmpeg/include" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-x86/src/main/jni/ijkmedia" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-x86/src/main/jni/ijkmedia" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-x86_64/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-x86_64/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-x86_64/src/main/jni/Android.mk" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-x86_64/src/main/jni/Android.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-x86_64/src/main/jni/ffmpeg/include" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-x86_64/src/main/jni/ffmpeg/include" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ijkplayer-x86_64/src/main/jni/ijkmedia" beforeDir="false" afterPath="$PROJECT_DIR$/ijkplayer-x86_64/src/main/jni/ijkmedia" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patch-debugging-with-lldb.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../patch-debugging-with-lldb.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patches/0004-arm64-link-prebuilt-staic-libraries-of-ffmepg.patch" beforeDir="false" afterPath="$PROJECT_DIR$/../patches/0004-arm64-link-prebuilt-staic-libraries-of-ffmepg.patch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patches/0004-armv5-link-prebuilt-staic-libraries-of-ffmepg.patch" beforeDir="false" afterPath="$PROJECT_DIR$/../patches/0004-armv5-link-prebuilt-staic-libraries-of-ffmepg.patch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../compile-android-j4a.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../compile-android-j4a.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config/module-default.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../config/module-default.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config/module-lite-hevc.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../config/module-lite-hevc.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config/module-lite.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../config/module-lite.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config/module.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../config/module.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../extra/init-extra.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../extra/init-extra.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ijkmedia/ijkplayer/android/ijkplayer_jni.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../ijkmedia/ijkplayer/android/ijkplayer_jni.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ijkmedia/ijkplayer/android/pipeline/ffpipenode_android_mediacodec_vdec.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../ijkmedia/ijkplayer/android/pipeline/ffpipenode_android_mediacodec_vdec.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ijkmedia/ijkplayer/ff_ffmsg.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../ijkmedia/ijkplayer/ff_ffmsg.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ijkmedia/ijkplayer/ff_ffplay.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../ijkmedia/ijkplayer/ff_ffplay.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ijkmedia/ijkplayer/ff_ffplay_def.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../ijkmedia/ijkplayer/ff_ffplay_def.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ijkmedia/ijkplayer/ijkmeta.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../ijkmedia/ijkplayer/ijkmeta.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ijkmedia/ijkplayer/ijkmeta.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../ijkmedia/ijkplayer/ijkmeta.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ijkmedia/ijkplayer/ijkplayer.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../ijkmedia/ijkplayer/ijkplayer.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ijkmedia/ijkplayer/version.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../ijkmedia/ijkplayer/version.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../init-android-exo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../init-android-exo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../init-android-j4a.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../init-android-j4a.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../init-android-libsoxr.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../init-android-libsoxr.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../init-android-libyuv.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../init-android-libyuv.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../init-android-openssl.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../init-android-openssl.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../init-android-prof.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../init-android-prof.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../init-android-soundtouch.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../init-android-soundtouch.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../init-android.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../init-android.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../init-config.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../init-config.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../init-ios-openssl.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../init-ios-openssl.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../init-ios.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../init-ios.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/IJKMediaDemo/XCAssets/MoviePlayerImages.xcassets/MoviePlayer/btn_player_back_highlighted.imageset/btn_player_back_highlighted.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/IJKMediaDemo/XCAssets/MoviePlayerImages.xcassets/MoviePlayer/btn_player_back_highlighted.imageset/btn_player_back_highlighted.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/IJKMediaDemo/XCAssets/MoviePlayerImages.xcassets/MoviePlayer/btn_player_back_highlighted.imageset/btn_player_back_highlighted@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/IJKMediaDemo/XCAssets/MoviePlayerImages.xcassets/MoviePlayer/btn_player_back_highlighted.imageset/btn_player_back_highlighted@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/IJKMediaDemo/XCAssets/MoviePlayerImages.xcassets/MoviePlayer/player_bottom_control_bg.imageset/player_bottom_control_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/IJKMediaDemo/XCAssets/MoviePlayerImages.xcassets/MoviePlayer/player_bottom_control_bg.imageset/player_bottom_control_bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/IJKMediaDemo/XCAssets/MoviePlayerImages.xcassets/MoviePlayer/player_bottom_control_bg.imageset/player_bottom_control_bg@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/IJKMediaDemo/XCAssets/MoviePlayerImages.xcassets/MoviePlayer/player_bottom_control_bg.imageset/player_bottom_control_bg@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/compile-ffmpeg.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/compile-ffmpeg.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/compile-openssl.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/compile-openssl.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/tools/do-compile-ffmpeg.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/tools/do-compile-ffmpeg.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/tools/do-compile-openssl.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/tools/do-compile-openssl.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../version.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../version.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_29" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1hJZlXcZbWOKgFJr6vZSH0fX75J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../../../../../../../../Android/Sdk" />
+    <property name="project.structure.last.edited" value="Suggestions" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ijkplayer-example" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="ijkplayer-example" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7983fe71-6e60-4e48-89e6-440b8831ec28" name="Default Changelist" comment="" />
+      <created>1599731314204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599731314204</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="470" y="283" key="#PSD" timestamp="1599732297146">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="470" y="283" key="#PSD/0.0.1920.1040@0.0.1920.1040" timestamp="1599732297146" />
+    <state x="407" y="206" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599800752312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="407" y="206" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599800752312" />
+    <state x="472" y="225" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1599732053027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="472" y="225" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599732053027" />
+    <state x="362" y="291" width="1183" height="521" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1599732581105">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="362" y="291" width="1183" height="521" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599732581105" />
+  </component>
+</project>

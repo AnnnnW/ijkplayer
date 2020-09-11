@@ -1,0 +1,14 @@
+prefix=/home/annnnpress/ijkplayer/android/contrib/build/ffmpeg-armv7a/output/shared
+exec_prefix=${prefix}
+libdir=/home/annnnpress/ijkplayer/android/contrib/build/ffmpeg-armv7a/output/shared/lib
+includedir=/home/annnnpress/ijkplayer/android/contrib/build/ffmpeg-armv7a/output/shared/include
+
+Name: libavutil
+Description: FFmpeg utility library
+Version: 55.78.100
+Requires: 
+Requires.private: 
+Conflicts:
+Libs: -L${libdir}  -lijkffmpeg -lm
+Libs.private: 
+Cflags: -I${includedir}
