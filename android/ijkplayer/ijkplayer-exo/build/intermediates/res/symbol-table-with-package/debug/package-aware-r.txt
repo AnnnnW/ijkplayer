@@ -1,0 +1,3 @@
+tv.danmaku.ijk.media.exo
+string app_name
+string ijkplayer_dummy

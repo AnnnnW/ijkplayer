@@ -146,6 +146,7 @@ cd android/contrib
 ./compile-ffmpeg.sh all
 
 cd ..
+sh compile-ijk.sh
 ./compile-ijk.sh all
 
 # Android Studio:

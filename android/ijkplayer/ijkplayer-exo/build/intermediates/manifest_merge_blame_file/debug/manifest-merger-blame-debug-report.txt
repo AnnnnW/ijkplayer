@@ -1,0 +1,21 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="tv.danmaku.ijk.media.exo" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="9"
+6-->C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-exo\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="29" />
+7-->C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-exo\src\main\AndroidManifest.xml
+8
+9    <application
+9-->C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-exo\src\main\AndroidManifest.xml:4:5-7:19
+10        android:allowBackup="true"
+10-->C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-exo\src\main\AndroidManifest.xml:4:18-44
+11        android:label="@string/app_name"
+11-->C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-exo\src\main\AndroidManifest.xml:4:45-77
+12        android:supportsRtl="true" >
+12-->C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-exo\src\main\AndroidManifest.xml:5:9-35
+13    </application>
+14
+15</manifest>
