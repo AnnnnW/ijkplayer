@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "tv.danmaku.ijk.media.example",
+  "variantName": "all32Debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "properties": [],
+      "versionCode": 800700,
+      "versionName": "0.8.7",
+      "enabled": true,
+      "outputFile": "ijkplayer-example-all32-debug.apk"
+    }
+  ]
+}

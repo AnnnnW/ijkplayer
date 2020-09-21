@@ -34,7 +34,7 @@
 20        android:allowBackup="true"
 20-->C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\AndroidManifest.xml:16:9-35
 21        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
-21-->[com.android.support:support-compat:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\d5873ef1c81d308223b266509cc1cbfd\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+21-->[com.android.support:support-compat:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\b5600749540a1520f48b4d76aa666c28\support-compat-28.0.0\AndroidManifest.xml:22:18-91
 22        android:debuggable="true"
 23        android:icon="@mipmap/ic_launcher"
 23-->C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\AndroidManifest.xml:17:9-43

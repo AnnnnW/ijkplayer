@@ -4,8 +4,8 @@
     <facet type="android-gradle" name="Android-Gradle">
       <configuration>
         <option name="GRADLE_PROJECT_PATH" value=":ijkplayer-example" />
-        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="3.5.2" />
-        <option name="LAST_KNOWN_AGP_VERSION" value="3.5.2" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="4.0.1" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="4.0.1" />
       </configuration>
     </facet>
     <facet type="android" name="Android">
@@ -19,8 +19,8 @@
         <option name="ALLOW_USER_CONFIGURATION" value="false" />
         <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
         <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
-        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../ijkplayer-example/src/main/res;file://$MODULE_DIR$/../../../ijkplayer-example/src/all32/res;file://$MODULE_DIR$/../../../ijkplayer-example/src/debug/res;file://$MODULE_DIR$/../../../ijkplayer-example/src/all32Debug/res;file://$MODULE_DIR$/../../../ijkplayer-example/build/generated/res/rs/all32/debug;file://$MODULE_DIR$/../../../ijkplayer-example/build/generated/res/resValues/all32/debug" />
-        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../ijkplayer-example/src/androidTest/res;file://$MODULE_DIR$/../../../ijkplayer-example/src/test/res;file://$MODULE_DIR$/../../../ijkplayer-example/src/androidTestAll32/res;file://$MODULE_DIR$/../../../ijkplayer-example/src/testAll32/res;file://$MODULE_DIR$/../../../ijkplayer-example/src/androidTestDebug/res;file://$MODULE_DIR$/../../../ijkplayer-example/src/testDebug/res;file://$MODULE_DIR$/../../../ijkplayer-example/build/generated/res/rs/androidTest/all32/debug;file://$MODULE_DIR$/../../../ijkplayer-example/build/generated/res/resValues/androidTest/all32/debug" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../ijkplayer-example/src/main/res;file://$MODULE_DIR$/../../../ijkplayer-example/src/all32/res;file://$MODULE_DIR$/../../../ijkplayer-example/src/debug/res;file://$MODULE_DIR$/../../../ijkplayer-example/src/all32Debug/res;file://$MODULE_DIR$/../../../ijkplayer-example/build/generated/res/rs/all32/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../ijkplayer-example/src/androidTest/res;file://$MODULE_DIR$/../../../ijkplayer-example/src/test/res;file://$MODULE_DIR$/../../../ijkplayer-example/src/androidTestAll32/res;file://$MODULE_DIR$/../../../ijkplayer-example/src/testAll32/res;file://$MODULE_DIR$/../../../ijkplayer-example/src/androidTestDebug/res;file://$MODULE_DIR$/../../../ijkplayer-example/src/testDebug/res;file://$MODULE_DIR$/../../../ijkplayer-example/build/generated/res/rs/androidTest/all32/debug" />
         <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
       </configuration>
     </facet>
@@ -30,12 +30,11 @@
     <output-test url="file://$MODULE_DIR$/../../../ijkplayer-example/build/intermediates/javac/all32DebugUnitTest/classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../ijkplayer-example">
-      <sourceFolder url="file://$MODULE_DIR$/../../../ijkplayer-example/build/generated/ap_generated_sources/all32Debug/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ijkplayer-example/build/generated/aidl_source_output_dir/all32Debug/out" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../ijkplayer-example/build/generated/source/buildConfig/all32/debug" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../ijkplayer-example/build/generated/renderscript_source_output_dir/all32Debug/compileAll32DebugRenderscript/out" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../ijkplayer-example/build/generated/aidl_source_output_dir/all32Debug/compileAll32DebugAidl/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ijkplayer-example/build/generated/ap_generated_sources/all32Debug/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ijkplayer-example/build/generated/renderscript_source_output_dir/all32Debug/out" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../ijkplayer-example/build/generated/res/rs/all32/debug" type="java-resource" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../ijkplayer-example/build/generated/res/resValues/all32/debug" type="java-resource" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../ijkplayer-example/src/all32Debug/res" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/../../../ijkplayer-example/src/all32Debug/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/../../../ijkplayer-example/src/all32Debug/assets" type="java-resource" />
@@ -44,11 +43,10 @@
       <sourceFolder url="file://$MODULE_DIR$/../../../ijkplayer-example/src/all32Debug/rs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../../ijkplayer-example/src/all32Debug/shaders" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../../ijkplayer-example/build/generated/source/buildConfig/androidTest/all32/debug" isTestSource="true" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../ijkplayer-example/build/generated/aidl_source_output_dir/all32DebugAndroidTest/compileAll32DebugAndroidTestAidl/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ijkplayer-example/build/generated/aidl_source_output_dir/all32DebugAndroidTest/out" isTestSource="true" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../ijkplayer-example/build/generated/ap_generated_sources/all32DebugAndroidTest/out" isTestSource="true" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../ijkplayer-example/build/generated/renderscript_source_output_dir/all32DebugAndroidTest/compileAll32DebugAndroidTestRenderscript/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ijkplayer-example/build/generated/renderscript_source_output_dir/all32DebugAndroidTest/out" isTestSource="true" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../ijkplayer-example/build/generated/res/rs/androidTest/all32/debug" type="java-test-resource" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../ijkplayer-example/build/generated/res/resValues/androidTest/all32/debug" type="java-test-resource" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../ijkplayer-example/src/androidTestAll32Debug/res" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/../../../ijkplayer-example/src/androidTestAll32Debug/resources" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/../../../ijkplayer-example/src/androidTestAll32Debug/assets" type="java-test-resource" />

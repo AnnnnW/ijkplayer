@@ -4,37 +4,37 @@ ADDED from C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.Ubuntuon
 INJECTED from C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\AndroidManifest.xml:2:1-84:12
 INJECTED from C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\AndroidManifest.xml:2:1-84:12
 INJECTED from C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\AndroidManifest.xml:2:1-84:12
-MERGED from [com.android.support:preference-v7:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\f8c1f9bca52aa2aafc04824a180fb641\preference-v7-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\34ef83bff00c648fa6639bb47a7aa167\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\b1f4a3edf7806a718d56dadfcf62e15f\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\429107018432a77d0a5e12cf413fc633\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\2cc91911439c7e65d5d1155521369c42\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\8f6fa177bb28c3cc1833daf58ee3f7e5\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\c11ad05c7d783f74d5f552b49c166a71\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\a22657bedee4d684861dc7edf52ae70d\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\477662bef549bf17ad3f18b1d41f118f\loader-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\486a772bddd455f60d900b1ff4eea2e7\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\a2f93bfb1d0b6ebcfd4d4f1304b5c05a\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\56813736c9bf81696e13d72128b173de\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\ea75a98b18b699bfc6b0648e8633028e\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\b1fbc207d4b36e276e53e0b8c71d96f4\customview-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\16f8972daf533710ee84ea6c075b80ea\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\3652e08bba9a0b53121ceba8bfebafd2\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\d5873ef1c81d308223b266509cc1cbfd\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\e9b93c3bb01a53a6416ca109666bd390\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\bf13ff0cd66e3d683d025cfe42c7a78a\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\10e5923facfe39e3c2f8232b93d6389f\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\bde592f9632cbeb45e578d19e9d32408\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\86c87a6f96db736326488fea45f8d0f2\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\0d2d986db06098ab13b8e8e731fc498b\print-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\6b1227dc8ff52d3524bbd7d7514bd757\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\180eb745aae6fd8bd668075870a9e23b\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\c68561a17c055b22a36eaf5514d6ac91\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\21989135f845e0061b7018167ca78e5a\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\cc58a9f40af863b797d54d5c95375bf1\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:preference-v7:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\cd249ffa6f4d86f6a9ee079b4d0eab21\preference-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\392afc20d55cf28c14cf9a704302a840\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\d4e92ba2d86c2c7bd17c8a63ff01a7e1\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\06cdd86f4336fb159fb425644d4cc40b\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\8b01be8265f49dc21a30efd6ba196a93\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\98083891a973f3f8432752aaa8bac175\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\96163855abf9a62c4aa9ed4f876d0afe\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\471ac9b69a7030d93c3413c6c7c67cd4\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\16691aa5399018b29d64dcb92c49fdc0\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\898b1a93137274808eefbdad3aef08a1\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\bf31a63ef6e94be8c4c4c5ac31c2c7de\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\04195510e5905c5090d2f776f4844d62\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\800db095307cd6282bf537ebae924767\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\fac81d8dcfddaf2375cbe147263d3280\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\ea57804241b4df92251c0b5dab9db81e\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\706a1a3d2233022db09a0c038e93018b\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\b5600749540a1520f48b4d76aa666c28\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\0d701dab931b33b71acb2b31fdca815f\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\07fa28e7f0699406234b172cc90c0a01\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\45706f294df594466429eee628536222\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\97951478fe8a33597da8844637773366\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\b4ccdb6fb0064b7a93f5a102eb672600\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\1b78d421fd7f7242443d618f2178e8c8\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\65027436f26b2e24855fef670e490879\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\d93186806338d01f03358575b5f231c2\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\ba3b9558ab4b26db640e30303e2fb9ca\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\3838bec55b4cf084b2b2f54f8572e1d1\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\caae0c1a5e3da7f7091e299b604d24a5\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [:ijkplayer-exo] C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-exo\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
 MERGED from [:ijkplayer-java] C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-java\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.exoplayer:exoplayer:r1.5.11] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\60decf12356d485cf3fd16166eeb571e\exoplayer-r1.5.11\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.exoplayer:exoplayer:r1.5.11] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\5582f75cf99ad8fb1d826b5fdfe90200\exoplayer-r1.5.11\AndroidManifest.xml:17:1-28:12
 INJECTED from C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\AndroidManifest.xml:2:1-84:12
 INJECTED from C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\AndroidManifest.xml:2:1-84:12
 INJECTED from C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\AndroidManifest.xml:2:1-84:12
@@ -56,68 +56,68 @@ uses-sdk
 ADDED from C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\AndroidManifest.xml:5:5-47
 INJECTED from C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\AndroidManifest.xml:5:5-47
 INJECTED from C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\AndroidManifest.xml:5:5-47
-MERGED from [com.android.support:preference-v7:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\f8c1f9bca52aa2aafc04824a180fb641\preference-v7-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:preference-v7:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\f8c1f9bca52aa2aafc04824a180fb641\preference-v7-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\34ef83bff00c648fa6639bb47a7aa167\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\34ef83bff00c648fa6639bb47a7aa167\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\b1f4a3edf7806a718d56dadfcf62e15f\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\b1f4a3edf7806a718d56dadfcf62e15f\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\429107018432a77d0a5e12cf413fc633\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\429107018432a77d0a5e12cf413fc633\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\2cc91911439c7e65d5d1155521369c42\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\2cc91911439c7e65d5d1155521369c42\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\8f6fa177bb28c3cc1833daf58ee3f7e5\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\8f6fa177bb28c3cc1833daf58ee3f7e5\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\c11ad05c7d783f74d5f552b49c166a71\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\c11ad05c7d783f74d5f552b49c166a71\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\a22657bedee4d684861dc7edf52ae70d\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\a22657bedee4d684861dc7edf52ae70d\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\477662bef549bf17ad3f18b1d41f118f\loader-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\477662bef549bf17ad3f18b1d41f118f\loader-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\486a772bddd455f60d900b1ff4eea2e7\viewpager-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\486a772bddd455f60d900b1ff4eea2e7\viewpager-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\a2f93bfb1d0b6ebcfd4d4f1304b5c05a\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\a2f93bfb1d0b6ebcfd4d4f1304b5c05a\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\56813736c9bf81696e13d72128b173de\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\56813736c9bf81696e13d72128b173de\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\ea75a98b18b699bfc6b0648e8633028e\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\ea75a98b18b699bfc6b0648e8633028e\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\b1fbc207d4b36e276e53e0b8c71d96f4\customview-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\b1fbc207d4b36e276e53e0b8c71d96f4\customview-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\16f8972daf533710ee84ea6c075b80ea\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\16f8972daf533710ee84ea6c075b80ea\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\3652e08bba9a0b53121ceba8bfebafd2\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\3652e08bba9a0b53121ceba8bfebafd2\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\d5873ef1c81d308223b266509cc1cbfd\support-compat-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\d5873ef1c81d308223b266509cc1cbfd\support-compat-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\e9b93c3bb01a53a6416ca109666bd390\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\e9b93c3bb01a53a6416ca109666bd390\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\bf13ff0cd66e3d683d025cfe42c7a78a\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\bf13ff0cd66e3d683d025cfe42c7a78a\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\10e5923facfe39e3c2f8232b93d6389f\runtime-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\10e5923facfe39e3c2f8232b93d6389f\runtime-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\bde592f9632cbeb45e578d19e9d32408\documentfile-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\bde592f9632cbeb45e578d19e9d32408\documentfile-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\86c87a6f96db736326488fea45f8d0f2\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\86c87a6f96db736326488fea45f8d0f2\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\0d2d986db06098ab13b8e8e731fc498b\print-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\0d2d986db06098ab13b8e8e731fc498b\print-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\6b1227dc8ff52d3524bbd7d7514bd757\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\6b1227dc8ff52d3524bbd7d7514bd757\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\180eb745aae6fd8bd668075870a9e23b\livedata-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\180eb745aae6fd8bd668075870a9e23b\livedata-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\c68561a17c055b22a36eaf5514d6ac91\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\c68561a17c055b22a36eaf5514d6ac91\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\21989135f845e0061b7018167ca78e5a\runtime-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\21989135f845e0061b7018167ca78e5a\runtime-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\cc58a9f40af863b797d54d5c95375bf1\interpolator-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\cc58a9f40af863b797d54d5c95375bf1\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\cd249ffa6f4d86f6a9ee079b4d0eab21\preference-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\cd249ffa6f4d86f6a9ee079b4d0eab21\preference-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\392afc20d55cf28c14cf9a704302a840\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\392afc20d55cf28c14cf9a704302a840\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\d4e92ba2d86c2c7bd17c8a63ff01a7e1\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\d4e92ba2d86c2c7bd17c8a63ff01a7e1\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\06cdd86f4336fb159fb425644d4cc40b\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\06cdd86f4336fb159fb425644d4cc40b\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\8b01be8265f49dc21a30efd6ba196a93\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\8b01be8265f49dc21a30efd6ba196a93\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\98083891a973f3f8432752aaa8bac175\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\98083891a973f3f8432752aaa8bac175\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\96163855abf9a62c4aa9ed4f876d0afe\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\96163855abf9a62c4aa9ed4f876d0afe\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\471ac9b69a7030d93c3413c6c7c67cd4\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\471ac9b69a7030d93c3413c6c7c67cd4\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\16691aa5399018b29d64dcb92c49fdc0\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\16691aa5399018b29d64dcb92c49fdc0\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\898b1a93137274808eefbdad3aef08a1\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\898b1a93137274808eefbdad3aef08a1\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\bf31a63ef6e94be8c4c4c5ac31c2c7de\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\bf31a63ef6e94be8c4c4c5ac31c2c7de\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\04195510e5905c5090d2f776f4844d62\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\04195510e5905c5090d2f776f4844d62\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\800db095307cd6282bf537ebae924767\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\800db095307cd6282bf537ebae924767\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\fac81d8dcfddaf2375cbe147263d3280\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\fac81d8dcfddaf2375cbe147263d3280\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\ea57804241b4df92251c0b5dab9db81e\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\ea57804241b4df92251c0b5dab9db81e\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\706a1a3d2233022db09a0c038e93018b\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\706a1a3d2233022db09a0c038e93018b\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\b5600749540a1520f48b4d76aa666c28\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\b5600749540a1520f48b4d76aa666c28\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\0d701dab931b33b71acb2b31fdca815f\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\0d701dab931b33b71acb2b31fdca815f\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\07fa28e7f0699406234b172cc90c0a01\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\07fa28e7f0699406234b172cc90c0a01\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\45706f294df594466429eee628536222\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\45706f294df594466429eee628536222\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\97951478fe8a33597da8844637773366\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\97951478fe8a33597da8844637773366\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\b4ccdb6fb0064b7a93f5a102eb672600\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\b4ccdb6fb0064b7a93f5a102eb672600\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\1b78d421fd7f7242443d618f2178e8c8\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\1b78d421fd7f7242443d618f2178e8c8\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\65027436f26b2e24855fef670e490879\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\65027436f26b2e24855fef670e490879\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\d93186806338d01f03358575b5f231c2\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\d93186806338d01f03358575b5f231c2\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\ba3b9558ab4b26db640e30303e2fb9ca\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\ba3b9558ab4b26db640e30303e2fb9ca\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\3838bec55b4cf084b2b2f54f8572e1d1\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\3838bec55b4cf084b2b2f54f8572e1d1\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\caae0c1a5e3da7f7091e299b604d24a5\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\caae0c1a5e3da7f7091e299b604d24a5\interpolator-28.0.0\AndroidManifest.xml:20:5-44
 MERGED from [:ijkplayer-exo] C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-exo\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:ijkplayer-exo] C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-exo\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:ijkplayer-java] C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-java\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:ijkplayer-java] C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-java\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.exoplayer:exoplayer:r1.5.11] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\60decf12356d485cf3fd16166eeb571e\exoplayer-r1.5.11\AndroidManifest.xml:24:5-26:41
-MERGED from [com.google.android.exoplayer:exoplayer:r1.5.11] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\60decf12356d485cf3fd16166eeb571e\exoplayer-r1.5.11\AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.android.exoplayer:exoplayer:r1.5.11] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\5582f75cf99ad8fb1d826b5fdfe90200\exoplayer-r1.5.11\AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.android.exoplayer:exoplayer:r1.5.11] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\5582f75cf99ad8fb1d826b5fdfe90200\exoplayer-r1.5.11\AndroidManifest.xml:24:5-26:41
 INJECTED from C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\AndroidManifest.xml:5:5-47
 INJECTED from C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\AndroidManifest.xml:5:5-47
 	android:targetSdkVersion
@@ -150,16 +150,16 @@ ADDED from C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.Ubuntuon
 		ADDED from C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\AndroidManifest.xml:13:22-73
 application
 ADDED from C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\AndroidManifest.xml:15:5-82:19
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\d5873ef1c81d308223b266509cc1cbfd\support-compat-28.0.0\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\d5873ef1c81d308223b266509cc1cbfd\support-compat-28.0.0\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\e9b93c3bb01a53a6416ca109666bd390\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\e9b93c3bb01a53a6416ca109666bd390\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\b5600749540a1520f48b4d76aa666c28\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\b5600749540a1520f48b4d76aa666c28\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\0d701dab931b33b71acb2b31fdca815f\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\0d701dab931b33b71acb2b31fdca815f\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
 MERGED from [:ijkplayer-exo] C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-exo\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-13:19
 MERGED from [:ijkplayer-exo] C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-exo\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-13:19
 	android:supportsRtl
 		ADDED from [:ijkplayer-exo] C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-exo\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-35
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\d5873ef1c81d308223b266509cc1cbfd\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\v-anwa\.gradle\caches\transforms-2\files-2.1\b5600749540a1520f48b4d76aa666c28\support-compat-28.0.0\AndroidManifest.xml:22:18-91
 	android:label
 		ADDED from C:\Users\v-anwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\annnnpress\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\AndroidManifest.xml:18:9-41
 	android:icon
